@@ -1,0 +1,36 @@
+/*隱藏左邊選單*/
+#region-pre > .region-content {display: none;}
+
+/*中間題目區塊滿版*/
+.side-pre-only #page-content #region-main  { margin-left: 0px;}
+
+/*回答table區塊*/
+.o2k7Skin table.mceLayout { width : 100%; }
+
+/*header hide*/
+
+#page-header { display: none;}
+
+.main.help {
+	display: none;
+}
+
+#id_submitbutton { 
+	padding: 20px 35px;
+	font-size: 25px;
+	margin-left: 40%;
+}
+
+.fitemtitle{
+	font-size: 30px;
+}
+
+.mform .fitem .felement{ 
+	width: 100%;
+	margin-left: 0px;
+}
+
+.homelink {
+	display: none;
+}
+

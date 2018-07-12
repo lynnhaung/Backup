@@ -1,0 +1,12 @@
+
+#external_search{
+    width: 300px;
+}
+.gsc-control-cse{
+    background-color: transparent !important;
+    padding: 0 !important;
+}
+.gsc-search-box:hover{
+    cursor: pointer;
+}
+

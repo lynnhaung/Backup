@@ -1,0 +1,261 @@
+#page-header {
+	display: none;
+}
+
+.forumng-pic a {
+	display: none !important;
+}
+
+.forumng-permalink  {
+	display: none !important;
+}
+
+.forumng-commands .forumng-edit{
+	display: none;
+} */
+
+.forumng-info .forumng-separator a {
+	display: none !important;
+}
+
+.forumng-pic-info .forumng-date  {
+	display: none !important;
+}
+
+.forumng-info .forumng-date {
+	display: none !important;
+}
+
+.forumng-edit {
+	display: none !important;
+}
+
+.forumng-pic-info .forumng-separator  {
+	display: none !important;
+}
+
+
+.forumng-edit  a {
+	display: none !important;
+}
+
+#forumng-features {
+	display: none;
+}
+
+.forumng-subscribe-options a {
+	display: none !important;
+}
+
+#forumng-subscribe-options {
+	display: none;
+}
+
+#page-footer {
+	display: none !important;
+}
+
+#forumng-unread-skip {
+	display: none !important;
+}
+
+
+.forumng-dot-separator  {
+	display: none !important;
+}
+
+.forumng-collapseall-link {
+	display: none !important;
+}
+
+
+.forumng-commands .forumng-jumpto {
+	display: none !important;
+}
+
+.forumng-commands .forumng-split {
+	display: none !important;
+}
+
+.forumng-commands .forumng-delete {
+	display: none !important;
+}
+
+#forumng-arrowback {
+	display: none !important;
+}
+
+.forumng-pic-info .forumng-flag {
+	display: none !important;
+}
+
+.fitemtitle {
+	display: none !important;
+}
+
+
+div#fitem_id_subject {
+    display: none;
+}
+
+.fitemtitle {
+	display: none !important;
+}
+
+#id_message_toolbargroup {
+	display: none !important;
+}
+
+#id_message_path_row  {
+	display: none !important;
+}
+
+#fitem_id_attachments {
+	display: none !important;
+}
+
+#fitem_id_mailnow {
+	display: none !important;
+}
+
+.fitemtitle {
+	display: none !important;
+}
+
+#fitem_id_setimportant {
+	display: none !important;
+}
+
+#fitem_id_asmoderator {
+	display: none !important;
+}
+
+#id_cancel  {
+	display: none !important;
+}
+
+#id_savedraft  {
+	display: none !important;
+}
+
+.forumng-commands {
+    display: none !important;
+}
+
+.forumng-postmain {
+    margin-left: 0px;
+	padding-left: 0em;
+}
+
+
+.hidden .fdescription .required {
+	display: none !important;
+} 
+
+.clear .forumng-postfooter {
+	display: none !important;
+} 
+
+#content {
+	margin: 0;
+	padding: 0;
+	width: 35%;
+}
+
+.fdescription.required {
+	display: none !important;
+} 
+/*105*/
+ .forumng-inlineform {
+	height:152px;
+}
+
+/*90vh*/
+.mform {
+    min-width: 90vh !important;
+}
+
+
+.forumng-subject {
+	margin-left: 0; 
+    padding-left: 0;
+}
+
+#page > #content,
+.mform .fitem .felement {
+	width: 100%;
+}
+
+.forumng-replies {
+	margin-left:0;
+}
+
+.forumng-post {
+	padding: 5px;
+    margin-bottom: 0;
+    margin: 5px;
+}
+
+.forumng-postmain {
+	    padding-top: 0;
+}
+#id_message {
+	height: 50px !important;
+}
+
+#page-mod-forumng-editpost {
+	overflow-y:hidden;
+}
+
+#id_submitbutton {
+	font-size: 1.5em !important;
+    padding: 5px;
+    margin: 0;
+	width: 100%;
+}
+
+.felement.fgroup {
+	text-align: center;
+}
+
+#fgroup_id_buttonar {
+	margin-top: 0;
+    margin-bottom: 0;
+}
+
+.mform fieldset > div {
+	margin: 0;
+}
+/*
+.forumng-pic-info:nth-of-type(2) {
+	display: none;
+}
+*/
+
+.forumng-p1 .forumng-author:nth-of-type(1) {
+	display: none;
+}
+
+.forumng-info {
+	margin-left: 0;
+	padding-left: 0;
+}
+.forumng-message p {
+	margin-bottom: 0;
+}
+.forumng-message {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.forumng-post-outerbox iframe {
+	display: none;
+}
+
+.forumng-post-outerbox.show-iframe iframe {
+	display: block;
+}
+
+.forumng-post.deleted {
+	display: none;
+}
